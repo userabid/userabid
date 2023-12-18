@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abidubaidillah
-- 👀 I’m interested in Test
 - 🌱 I’m currently learning Software Quality Assurance
 - 💞️ I’m looking to collaborate on Testing 
 - 📫 How to reach me linkedin abidubaidillah
